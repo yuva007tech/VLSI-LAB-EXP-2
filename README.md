@@ -215,19 +215,19 @@ endmodule
 
 OUTPUT WAVEFORM
 Multiplexer
-
+![multiplexer](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/53c25788-40f4-4655-bdaa-8a1c29c7aef2)
 
 Magnitude Comparator
-
+![magnitude comparator](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/7fc263a0-169c-43e3-a4ba-4eb83c556631)
 
 Demultiplier
-
+![demultiplexer](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/1c8256fc-ea3b-4715-9d9b-a126bbd5bd3d)
 
 8 to 3 Encoder
-
+![8 to 3 decoder](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/5bfa7b0f-be89-4737-816d-ca7456b1dcb0)
 
 3 to 8 Decoder
-
+![3 to 8 decoder](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/c7a28506-0d3a-4299-8af2-8290b5c520af)
 
 
 RESULT
