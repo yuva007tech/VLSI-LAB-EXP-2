@@ -222,18 +222,23 @@ endmodule
 OUTPUT WAVEFORM
 Multiplexer
 ![multiplexer](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/53c25788-40f4-4655-bdaa-8a1c29c7aef2)
+<img width="761" alt="324391413-85c03dbc-f941-4c48-9ddf-49f4ab5342c4" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/f9162e62-ebe7-45f0-912e-d58568d25c0e">
 
 Magnitude Comparator
 ![magnitude comparator](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/7fc263a0-169c-43e3-a4ba-4eb83c556631)
+<img width="761" alt="324391559-581f136c-8f0f-40aa-981b-b8299e269f9d" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/b341c9eb-0c07-4f62-ab8e-e5fe0e5666bd">
 
 Demultiplier
 ![demultiplexer](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/1c8256fc-ea3b-4715-9d9b-a126bbd5bd3d)
+<img width="767" alt="324391625-8e681a69-d96e-489a-bea1-b9e273d43b94" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/4d383aa4-600c-4fb8-b198-5576e7bcc4c4">
 
 8 to 3 Encoder
 ![8 to 3 decoder](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/5bfa7b0f-be89-4737-816d-ca7456b1dcb0)
+<img width="764" alt="324391719-08f3ff7c-b9e5-469b-8bb8-53c980cd1ca0" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/b68df291-0082-4f89-a7e7-78e482ce3de0">
 
 3 to 8 Decoder
 ![3 to 8 decoder](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/c7a28506-0d3a-4299-8af2-8290b5c520af)
+<img width="766" alt="324391783-d3549f3d-02f0-47f0-ad57-e5022d165e3b" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/2a1d778b-9d8b-467b-aefc-383e8572e637">
 
 
 RESULT
