@@ -238,3 +238,4 @@ Demultiplier
 
 RESULT
 
+Thus the Simulation and Implementaion of Combinational Logic Circuits is Verified
