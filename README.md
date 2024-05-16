@@ -1,9 +1,9 @@
-SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
+# 2.SIMULATION AND IMPLEMENTATION OF  COMBINATIONAL LOGIC CIRCUITS
 
-AIM: 
+# AIM: 
  To simulate and synthesis ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, MAGNITUDE COMPARATOR using Xilinx ISE.
 
-APPARATUS REQUIRED:
+# APPARATUS REQUIRED:
 VIVADO 2023.1
   
 
@@ -35,7 +35,7 @@ MAGNITUDE COMPARATOR
 
 
   
-PROCEDURE:
+# PROCEDURE:
 1. Open Vivado: Launch Xilinx Vivado software on your computer.
 
 2. Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
@@ -54,7 +54,7 @@ PROCEDURE:
 
 9. View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-VERILOG CODE
+# VERILOG CODE
 
 3to8 Decoder
 
@@ -219,7 +219,7 @@ always@({s ,a})
 
 endmodule
 
-OUTPUT WAVEFORM
+# OUTPUT WAVEFORM
 Multiplexer
 ![multiplexer](https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/53c25788-40f4-4655-bdaa-8a1c29c7aef2)
 <img width="761" alt="324391413-85c03dbc-f941-4c48-9ddf-49f4ab5342c4" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/f9162e62-ebe7-45f0-912e-d58568d25c0e">
@@ -241,6 +241,6 @@ Demultiplier
 <img width="766" alt="324391783-d3549f3d-02f0-47f0-ad57-e5022d165e3b" src="https://github.com/yuva007tech/VLSI-LAB-EXP-2/assets/123287599/2a1d778b-9d8b-467b-aefc-383e8572e637">
 
 
-RESULT
+# RESULT
 
 Thus the Simulation and Implementaion of Combinational Logic Circuits is Verified
